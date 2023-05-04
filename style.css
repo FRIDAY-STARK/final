@@ -131,7 +131,7 @@ img {
 .navbar a {
   display: block;
 /*  margin-left: 1;*/
-  margin-bottom: 2vw;
+  margin-bottom: 2rem;
   color: #fff;
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
