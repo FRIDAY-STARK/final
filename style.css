@@ -194,7 +194,7 @@ img {
 .endnote {
   display: inline-block;
   margin-left: 1rem;
-  font-size: 0.7rem;
+  font-size: 0.7vw;
   color: #ccc;
   opacity: 0.8;
 }
